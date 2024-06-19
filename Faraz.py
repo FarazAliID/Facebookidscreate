@@ -1,1 +1,2 @@
-import faraz
+print("Free Tool Is Of ")
+
