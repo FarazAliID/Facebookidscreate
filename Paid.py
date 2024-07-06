@@ -1,2 +1,2 @@
 print("[=] 64 Bit only")
-import faraziid
+import farazii
